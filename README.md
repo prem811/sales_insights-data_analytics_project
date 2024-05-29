@@ -1,6 +1,6 @@
 # sales_insights-data_analytics_project
-Sales Analysis Insights
-Project Overview
+# Sales Analysis Insights
+# Project Overview:
 The Sales Analysis Insights project aims to analyze sales data to uncover meaningful insights that can drive business decisions. The analysis focuses on key performance metrics such as revenue, sales quantity, customer segmentation, and trends over time.
 
 Table of Contents
