@@ -16,8 +16,8 @@ Contact
 # Data
 The dataset used in this project consists of sales transactions, which include the following fields:
 
-Employee Name: Name of the employee
-Designation: Role of the employee
+# Employee Name: Name of the employee
+# Designation: Role of the employee
 Department: Department of the employee
 Salary: Employee salary
 Date of Birth: Employee date of birth
